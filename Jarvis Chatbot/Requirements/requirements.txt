@@ -1,9 +1,0 @@
-pandas
-numpy
-scikit-learn
-nltk
-pyyaml
-streamlit
-joblib
-sentence-transformers
-sympy
